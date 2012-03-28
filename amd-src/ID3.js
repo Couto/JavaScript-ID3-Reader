@@ -1,4 +1,4 @@
-define(['ID3v2', 'ID3v1'], function (ID4, ID3v2, ID3v1) {
+define(['./ID3v2', './ID3v1'], function (ID3v2, ID3v1) {
     'use strict';
 
     function ID3(binaryStr) {
